@@ -1,0 +1,12 @@
+input {
+  syslog {
+     id => "syslog-plugin"
+     type => "rsyslog"
+     port => 12201
+  }
+}
+output {
+  elasticsearch {
+    hosts => ["http://elasticsearch:9200"]
+  }
+}
