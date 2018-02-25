@@ -8,6 +8,6 @@ Cloud Continuos Integration Tool as a service by @mikefaraponov
 ## [Web](https://github.com/fortress-shell/web)
 ## [Support](https://github.com/fortress-shell/support)
 ## [CLI](https://github.com/fortress-shell/cli)
-## [Log Processor](https://github.com/fortress-shell/log)
+## [Log Processor](https://github.com/fortress-shell/logs)
 ## [Event Processor](https://github.com/fortress-shell/bus)
 ## [Agent](https://github.com/fortress-shell/agent)
