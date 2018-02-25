@@ -5,4 +5,5 @@ manager
 notifications
 web
 agent
+scheduler
 support
