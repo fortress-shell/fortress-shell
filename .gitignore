@@ -7,3 +7,8 @@ web
 agent
 scheduler
 support
+serf
+raft
+raft-boltdb
+consul
+dashboard
