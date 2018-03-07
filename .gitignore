@@ -13,3 +13,5 @@ raft-boltdb
 consul
 dashboard
 .DS_Store
+*.conf
+*.mdj
