@@ -15,3 +15,7 @@ dashboard
 .DS_Store
 *.conf
 *.mdj
+.env
+sandbox
+nomad_webhook/
+configurations/

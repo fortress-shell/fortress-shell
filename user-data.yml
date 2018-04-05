@@ -1,9 +1,0 @@
-#cloud-config
-
-password: passw0rd
-chpasswd: { expire: False }
-ssh_pwauth: True
-ssh_authorized_keys:
-  - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC1//lc9VHPJLv57rEypXwLRrd/97SKmhCL/UFcy0XIHcskJffqcqYy1kiQDiv2332YZrwC94tiIsCaPmLJGc+sAA7qeHPADlqzzxFrHtttZvnKbf+0PuIdbOjB5UIgvDuan1guIDG+3b61T7NTU7MukDWgJPTGC7YP6rSON9hVjY48jSTTs35Xly0SMrNPKv0QcJGX8tNfgDfhkkuZr6KYKdQ5kDCgWobgd9zVR6Mw0vRSXBa6UVZKj0tr9TZDO5U6LUn0XyXxnpIgRhBblmbsextlLnWKU/M7Ow2evSCf3YEcbtzR9COzvHDbje4eRkqq9CopNWMxrS+yxbVrvFST mfaraponov@od-ws16-linux
-packages:
-  - qemu-guest-agent
