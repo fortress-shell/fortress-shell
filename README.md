@@ -1,6 +1,7 @@
 # fortress-shell
 Cloud Continuos Integration Tool as a service by [@mikefaraponov](https://www.linkedin.com/in/mikefaraponov
 )
+![Demo](https://raw.github.com/fortress-shell/fortress-shell/master/demo.gif)
 ## [API](https://github.com/fortress-shell/manager)
 ## [Notifications](https://github.com/fortress-shell/notifications)
 ## [Web](https://github.com/fortress-shell/web)
