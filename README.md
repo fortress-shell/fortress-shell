@@ -10,7 +10,7 @@ Cloud Continuos Integration Tool as a service by [@mikefaraponov](https://www.li
 ## [Cloud Agent](https://github.com/fortress-shell/agent)
 
 ## ScalableSpace
-Soon will be available on [ScalableSpace](https://scalablespace.net) or [ScaleChamp](https://scalechamp.com)
+Soon will be available on [ScaleChamp](https://scalechamp.com)
 
 ##
 Look [Fortress-Shell](https://fortress-shell.github.io/fortress-shell/)
